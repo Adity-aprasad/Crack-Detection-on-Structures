@@ -41,7 +41,7 @@ This project aims to develop an advanced crack detection system by integrating a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/atharvaK718/Crack-Detection-on-Structures.git
+   git clone https://github.com/adity-aprasad/Crack-Detection-on-Structures.git
    ```
 
 2. **Install Dependencies:**
